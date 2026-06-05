@@ -7,6 +7,7 @@ class Cwb < Formula
   url "https://github.com/cheikhfiteni/cwb/archive/refs/tags/v1.4.4.tar.gz"
   sha256 "419f28098e47a7f186a40e8b5196e5a08fd9c550047941ab26980f922183540a"
   license "MIT"
+  revision 1
 
   head "https://github.com/cheikhfiteni/cwb.git", branch: "main"
 
