@@ -4,8 +4,8 @@
 class Cwb < Formula
   desc "High-level wrapper around coding-agent CLIs using isolated git worktrees"
   homepage "https://github.com/cheikhfiteni/cwb"
-  url "https://github.com/cheikhfiteni/cwb/archive/refs/tags/v1.4.3.tar.gz"
-  sha256 "611b75c18d304ca7af123c6bbfeaf9fb79895bd04bbf24bde28d494e975e0987"
+  url "https://github.com/cheikhfiteni/cwb/archive/refs/tags/v1.4.4.tar.gz"
+  sha256 "419f28098e47a7f186a40e8b5196e5a08fd9c550047941ab26980f922183540a"
   license "MIT"
 
   head "https://github.com/cheikhfiteni/cwb.git", branch: "main"
